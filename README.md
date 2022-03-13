@@ -18,9 +18,6 @@ Here's some things about me:
 [<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
 <a href="mailto:amawest@umich.edu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
-<br />
-
-<br />
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
@@ -37,9 +34,6 @@ Here's some things about me:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-
-<br />
-
 ### Tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -53,6 +47,5 @@ Here's some things about me:
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
 ---
-
 [medium]: https://amawest.medium.com/
 [linkedin]: https://www.linkedin.com/in/amawest/
