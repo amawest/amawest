@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amanda
+## Hi there 👋, I'm Amanda
 
 
 
@@ -11,10 +11,7 @@ Here's some things about me:
 - 💬 Ask me about XXX
 - 📫 How to reach me **amawest@umich.edu**
 
-<br />
-
-<h3 align="left"> Connect with me:</h3>
-
+### Connect
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
@@ -25,7 +22,7 @@ Here's some things about me:
 
 <br />
 
-## Technical Skills:
+### Technical Skills
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,7 +40,7 @@ Here's some things about me:
 
 <br />
 
-## Tools:
+### Tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
