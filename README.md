@@ -2,7 +2,7 @@
 
 Here's some things about me:
 
-- 🔭 I'm a data scientist at Daybreak
+- 🔭 I'm a data scientist at Daybreak LLC
 - 🎓 I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate
 - 💬 Ask me about competing internationally in taekwondo
 - 📫 How to reach me **amawest@umich.edu**
