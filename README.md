@@ -3,8 +3,8 @@
 Here's some things about me:
 
 - 🔭 I'm a data scientist at Daybreak (July 2021 - Present)
-- 📝 I write articles on [https://amawest.medium.com/](https://amawest.medium.com/)
-- 👯 I’m looking to XXX
+- 🎓 I'm a University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) alum
+- 📝 I write articles at [https://amawest.medium.com/](https://amawest.medium.com/)
 - :brain: XXX
 - 💬 Ask me about XXX
 - 📫 How to reach me **amawest@umich.edu**
