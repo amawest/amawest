@@ -18,12 +18,9 @@ Here's some things about me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" />][kaggle]
-
-
 [<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
-<a href="mailto:gnosek123@hotmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:amawest@umich.edu" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
 <br />
 
 <br />
@@ -58,15 +55,7 @@ Here's some things about me:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
-<br />
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaben3722&show_icons=true&locale=en&theme-dracula" alt="gaben3722" /></p>
-
-### Lambda School | Data Science & Machine Learning Credential
-[<img width="204px" src="assets\data-science-machine-learning.1.png"/>](https://www.credly.com/badges/0e782313-cf1a-4732-81bd-774b7d4ed04c/public_url)
 ---
 
-[medium]: https://gabenosek.medium.com/
-[linkedin]: https://www.linkedin.com/in/gabe-nosek-31431a174/
-[kaggle]: https://www.kaggle.com/gabenosek
+[medium]: https://amawest.medium.com/
+[linkedin]: https://www.linkedin.com/in/amawest/
