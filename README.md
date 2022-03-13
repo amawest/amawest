@@ -3,7 +3,7 @@
 Here's some things about me:
 
 - 🔭 I'm a data scientist at Daybreak (July 2021 - Present)
-- 🎓 I'm a University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) alum
+- 🎓 I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) alumna
 - 📝 I write articles at [https://amawest.medium.com/](https://amawest.medium.com/)
 - :brain: XXX
 - 💬 Ask me about XXX
