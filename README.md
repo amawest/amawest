@@ -1,4 +1,4 @@
-## [WIP] Hi there! 👋 I'm Amanda
+## [WIP] Hi there 👋 I'm Amanda
 
 Here's some things about me:
 
