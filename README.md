@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Gabe
+### Hi there 👋, I'm Amanda
 
 
 
 Here's some things about me:
 
-- 🔭 Just finished an internship with Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
-- 📝 I write articles on [https://gabenosek.medium.com/](https://gabenosek.medium.com/)
-- 👯 I’m looking to collaborate on ML and deep learning projects
-- :brain: I consider myself to be a lifelong learner
-- 💬 Ask me about market research and how data can be used to influence your decisions
-- 📫 How to reach me **gnosek123@hotmail.com**
+- 🔭 I'm a data scientist at Daybreak (July 2021 - Present)
+- 📝 I write articles on [https://amawest.medium.com/](https://amawest.medium.com/)
+- 👯 I’m looking to XXX
+- :brain: XXX
+- 💬 Ask me about XXX
+- 📫 How to reach me **amawest@umich.edu**
 
 <br />
 
