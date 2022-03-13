@@ -20,7 +20,6 @@ Here's some things about me:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Tools
 
