@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Amanda
 
-<!--
 Here's some things about me:
 - 🔭 Just finished an internship with Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
 - 📝 I write articles on [https://gabenosek.medium.com/](https://gabenosek.medium.com/)
@@ -8,7 +7,6 @@ Here's some things about me:
 - :brain: I consider myself to be a lifelong learner
 - 💬 Ask me about market research and how data can be used to influence your decisions
 - 📫 How to reach me **gnosek123@hotmail.com**
--->
 
 <br />
 
@@ -69,3 +67,6 @@ Here's some things about me:
 [linkedin]: https://www.linkedin.com/in/gabe-nosek-31431a174/
 [kaggle]: https://www.kaggle.com/gabenosek
 
+
+<!--
+-->
