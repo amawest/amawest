@@ -49,17 +49,7 @@ Here's some things about me:
 
 <br />
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaben3722&show_icons=true&locale=en&theme-dracula" alt="gaben3722" /></p>
-
-### Lambda School | Data Science & Machine Learning Credential
-[<img width="204px" src="assets\data-science-machine-learning.1.png"/>](https://www.credly.com/badges/0e782313-cf1a-4732-81bd-774b7d4ed04c/public_url)
----
-
-[medium]: https://gabenosek.medium.com/
-[linkedin]: https://www.linkedin.com/in/gabe-nosek-31431a174/
-[kaggle]: https://www.kaggle.com/gabenosek
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amawest&show_icons=true&locale=en&theme-dracula" alt="amawest" /></p>
 
 <!--
 -->
