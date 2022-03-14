@@ -2,10 +2,10 @@
 
 Here's some things about me:
 
-- 🧪 I'm a ~~mad scientist~~ data scientist at [Daybreak](http://www.daybreak-llc.com/home.html)
-- 🎓 I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate
-- 💬 Ask me about doing taekwondo in Albania 🇦🇱
-- 📫 Reach me at **amawest@umich.edu**
+- I'm a data scientist at [Daybreak](http://www.daybreak-llc.com/home.html) 🌎
+- I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate 🎓
+- Ask me about doing taekwondo 🥋 in Albania 🇦🇱
+- Reach me at **amawest@umich.edu** 📫
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
