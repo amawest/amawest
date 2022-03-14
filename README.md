@@ -5,7 +5,7 @@ Here's some things about me:
 - 🔭 I'm a data scientist at [Daybreak](http://www.daybreak-llc.com/home.html)
 - 🎓 I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate
 - 💬 Ask me about doing taekwondo in Albania 🇦🇱
-- 📫 How to reach me **amawest@umich.edu**
+- 📫 Reach me at **amawest@umich.edu**
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
@@ -25,12 +25,12 @@ Here's some things about me:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### Connect
 
