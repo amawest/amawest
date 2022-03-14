@@ -4,7 +4,7 @@ Here's some things about me:
 
 - 🔭 I'm a data scientist at [Daybreak](http://www.daybreak-llc.com/home.html)
 - 🎓 I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate
-- 💬 Ask me about competing internationally in taekwondo
+- 💬 Ask me about doing taekwondo in Albania 🇦🇱
 - 📫 How to reach me **amawest@umich.edu**
 
 ### Technical Skills
