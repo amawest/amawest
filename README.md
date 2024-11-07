@@ -2,7 +2,7 @@
 
 Here's some things about me:
 
-- I'm a senior data scientist at [Daybreak](http://www.daybreak-llc.com/home.html) 🌎
+- I'm a senior health data scientist at [Booz Allen Hamilton](https://www.boozallen.com/?gad_source=1&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwKqZ5dM7PCmi3YRLUJHntBj0vnD4s6WocvuUYTtC5dgC98m3J85sgaAhnoEALw_wcB) 🌎
 - I'm a proud University of Michigan (BS Economics '20) and University of Virginia (MS Data Science '21) graduate 🎓
 - Ask me about doing taekwondo 🥋 in Albania 🇦🇱
 - Reach me at **amalaforest@gmail.com** 📫
